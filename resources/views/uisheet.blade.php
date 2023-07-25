@@ -30,7 +30,7 @@
                     </div>
                     <div class="ms-3">
                         <a class="bg-white btn btn-light d-flex" target="_blank"
-                            href="https://github.com/iqonicdesignofficial/hope-ui-laravel-dashboard"><img
+                            href="https://github.com/Ayham-Almazari/simple-blog-system.git"><img
                                 src="{{ asset('/images/brands/23.png') }}" width="24px" height="24px"><span
                                 class="mx-2 text-danger fw-bold">STAR US</span> <span>ON GITHUB</span></a>
                     </div>
